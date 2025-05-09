@@ -68,16 +68,3 @@ Kamera Erişim Hatası: Cihazınızın kamera erişim izinlerini kontrol edin
 MediaPipe Hataları: El algılama için iyi aydınlatılmış bir ortam sağlayın
 MP3 Dosya Hatası: Dosya adlarında özel karakter veya boşluk olmamalıdır
 Duygu Algılama Sorunları: Yüzünüzün iyi aydınlatılmış ve kameraya dönük olduğundan emin olun
-
-📝 Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır.
-👏 Katkıda Bulunma
-
-Bu projeyi fork edin
-Kendi branch'inizi oluşturun (git checkout -b yeni-ozellik)
-Değişikliklerinizi commit edin (git commit -m 'Yeni özellik eklendi')
-Branch'inizi push edin (git push origin yeni-ozellik)
-Pull Request oluşturun
-
-🔗 İletişim
-GitHub: github.com/username
