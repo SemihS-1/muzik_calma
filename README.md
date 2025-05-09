@@ -19,7 +19,7 @@ Bu proje, bilgisayar kamerası aracılığıyla el hareketleri ve yüz ifadeleri
 - NumPy
 - PyGame
 - DeepFace
-
+```
 
 ## 🚀 Kurulum
 
