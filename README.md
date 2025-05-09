@@ -1,8 +1,6 @@
-# muzik_calma
-![image](https://github.com/user-attachments/assets/b336480e-60e8-4b10-9a38-5b1f77daf50e)
 # El Hareketleri ve Gülümseme ile Müzik Kontrolü
 
-![Banner](https://github.com/username/repo/raw/main/banner.png)
+![image](https://github.com/user-attachments/assets/b336480e-60e8-4b10-9a38-5b1f77daf50e)
 
 Bu proje, bilgisayar kamerası aracılığıyla el hareketleri ve yüz ifadelerini kullanarak müzik kontrolü sağlayan bir Python uygulamasıdır. MediaPipe el izleme ve DeepFace duygu tanıma kütüphaneleri kullanılarak geliştirilmiştir.
 
