@@ -13,12 +13,12 @@ Bu proje, bilgisayar kamerası aracılığıyla el hareketleri ve yüz ifadeleri
 
 ## 📋 Gereksinimler
 
-Python 3.7+
-OpenCV (cv2)
-MediaPipe
-NumPy
-PyGame
-DeepFace
+- Python 3.7+
+- OpenCV (cv2)
+- MediaPipe
+- NumPy
+- PyGame
+- DeepFace
 
 
 ## 🚀 Kurulum
@@ -37,7 +37,7 @@ Uygulamayı çalıştırın:
 
 bashpython muzik_caldirma.py
 🎮 Kullanım Kılavuzu
-Müzik Seçimi (Sağ El)
+Müzik Seçimi (Sol El)
 Kameraya sağ elinizi gösterin ve kaldırdığınız parmak sayısına göre müzik değişecektir:
 
 1 parmak: 1. müzik dosyası
@@ -45,8 +45,8 @@ Kameraya sağ elinizi gösterin ve kaldırdığınız parmak sayısına göre m�
 ...
 5 parmak: 5. müzik dosyası
 
-Ses Kontrolü (Sol El)
-Sol elinizin başparmak ve işaret parmağı arasındaki mesafeyi değiştirerek ses seviyesini ayarlayabilirsiniz:
+Ses Kontrolü (Sağ El)
+Sağ elinizin başparmak ve işaret parmağı arasındaki mesafeyi değiştirerek ses seviyesini ayarlayabilirsiniz:
 
 Parmaklar birbirine yakın: Düşük ses
 Parmaklar birbirinden uzak: Yüksek ses
