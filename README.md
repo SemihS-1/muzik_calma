@@ -12,7 +12,7 @@ Bu proje, bilgisayar kamerası aracılığıyla el hareketleri ve yüz ifadeleri
 - **Gerçek Zamanlı Görsel Geri Bildirim**: Parmak sayısı, ses seviyesi ve duygu durumu ekranda gösterilir
 
 ## 📋 Gereksinimler
-
+```bash
 - Python 3.7+
 - OpenCV (cv2)
 - MediaPipe
